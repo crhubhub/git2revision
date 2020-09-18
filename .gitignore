@@ -1,6 +1,5 @@
 # phpstorm
 .idea
-.git
 # Netbeans
 /nbproject
 
@@ -10,5 +9,7 @@ config.php
 # backup files from Workbench
 /data/git2revision.mwb.bak
 
-# vendor
+
+# vendor dependencies
 /vendor
+
